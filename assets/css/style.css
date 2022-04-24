@@ -234,6 +234,11 @@ header h3 {
   vertical-align: middle;
 }
 
+#Eventos-Anteriores {
+  text-align: center;
+  }
+  
+
 footer {
   font-family: "Open Sans", sans-serif;
   text-align: center;
